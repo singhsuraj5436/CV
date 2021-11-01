@@ -3,18 +3,22 @@ body {
   background-color:powderblue;
 }
 
-hr {
-  border-style:none;
-  border-top-style: dotted;
-  border-color: grey;
-  border-width:5px;
-  width:100%;
-}
-
 h1 {
   color:#1F1D36;
 }
 
 h2 {
   color:#1F1D36;
+}
+
+/*********************************ID Selectors****************************/
+
+#input:hover{
+  background-color: gold;
+}
+
+/*********************************Class Selectors****************************/
+
+.circular{
+  border-radius: 100%
 }
