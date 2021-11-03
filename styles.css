@@ -19,23 +19,7 @@ h2 {
   background-color: gold;
 }
 
-#change{
-  padding-right:165px;
-}
-
 /*********************************Class Selectors****************************/
-
-.details{
-  padding-right: 80px;
-  }
-
-.change1{
-  padding-right:155px;
-}
-
-.change2{
-  padding-left:100px;
-}
 
 .circular{
   border-radius: 100%
