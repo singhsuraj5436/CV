@@ -13,6 +13,10 @@ h2 {
   color:#1F1D36;
 }
 
+img:hover{
+  background-color: red;
+}
+
 /*********************************ID Selectors****************************/
 
 #input:hover{
