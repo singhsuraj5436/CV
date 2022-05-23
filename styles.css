@@ -1,5 +1,6 @@
 /*********************************Tag Selectors****************************/
 body {
+  padding-left: 20px;
   color: #1F1D36;
   background-color: powderblue;
 }
@@ -20,16 +21,16 @@ h2 {
   color: #219F94;
 }
 
-.e1:hover {
-  background-color: red;
-}
-
 /*********************************ID Selectors****************************/
 #input:hover {
   background-color: gold;
 }
 
 /*********************************Class Selectors****************************/
+.e1:hover {
+  background-color: red;
+}
+
 .circular {
   border-radius: 100%
 }
