@@ -2,15 +2,15 @@
 body {
   padding-left: 20px;
   color: #1F1D36;
-  background-color: powderblue;
+  background-color: #ff4c68;
 }
 
 a {
-  color: #219F94;
+  color: #fff;
 }
 
 h1 {
-  color: #219F94;
+  color: #fff;
 }
 
 a:hover {
@@ -18,7 +18,7 @@ a:hover {
 }
 
 h2 {
-  color: #219F94;
+  color: #fff;
 }
 
 
