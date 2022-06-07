@@ -1,7 +1,7 @@
 /*********************************Tag Selectors****************************/
 body {
   padding-left: 20px;
-  color: #1F1D36;
+  color: #fff;
   background-color: #ff4c68;
 }
 
@@ -21,12 +21,11 @@ h2 {
   color: #fff;
 }
 
-
 /* *********************************Class Selectors**************************** */
-
-.e1{
-  width:80%;
+.e1 {
+  width: 80%;
 }
+
 .e1:hover {
   background-color: red;
 }
