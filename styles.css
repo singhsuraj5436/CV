@@ -2,7 +2,7 @@
 body {
   padding-left: 20px;
   color: #fff;
-  background-color: #ff4c68;
+  background-color: #6C4AB6;
 }
 
 a {
@@ -14,11 +14,15 @@ h1 {
 }
 
 a:hover {
-  color: red;
+  color: #FF8FB1;
 }
 
 h2 {
   color: #fff;
+}
+
+td {
+  padding: 10px;
 }
 
 /* *********************************Class Selectors**************************** */
@@ -27,9 +31,11 @@ h2 {
 }
 
 .e1:hover {
-  background-color: red;
+  background-color: #FF8FB1;
 }
 
 .circular {
+  padding-top: 20px;
+  width: 80%;
   border-radius: 100%
 }
